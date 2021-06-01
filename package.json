@@ -1,0 +1,18 @@
+{
+  "name": "yara",
+  "version": "1.0.0",
+  "description": "yara developement packages",
+  "main": "index.js",
+  "author": "Marina Tatic",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^8.1.0",
+    "mocha": "^6.2.3",
+    "pixelmatch": "^5.2.1",
+    "puppeteer": "^1.20.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

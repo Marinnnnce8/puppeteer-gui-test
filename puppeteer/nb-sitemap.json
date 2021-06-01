@@ -1,0 +1,34 @@
+{
+    "url": [
+        {
+            "loc": "https://shetland.nbcom.co.uk",
+            "file": "shetland",
+            "lastmod": "2018-11-20T13:21:30+00:00",
+            "priority": "1.00"
+        },
+        {
+            "loc": "https://shetland.nbcom.co.uk/visit/do/outdoors",
+            "file": "outdoors",
+            "lastmod": "2018-11-20T13:21:30+00:00",
+            "priority": "0.80"
+        },
+        {
+            "loc": "https://shetland.nbcom.co.uk/visit/do/outdoors/walk",
+            "file": "walk",
+            "lastmod": "2018-11-20T13:21:30+00:00",
+            "priority": "0.80"
+        },
+        {
+            "loc": "https://shetland.nbcom.co.uk/visit/do/outdoors/cycle",
+            "file": "cycle",
+            "lastmod": "2018-11-20T13:21:30+00:00",
+            "priority": "0.80"
+        },
+        {
+            "loc": "https://shetland.nbcom.co.uk/visit/do/outdoors/sail",
+            "file": "sail",
+            "lastmod": "2018-11-20T13:21:30+00:00",
+            "priority": "0.80"
+        }
+    ]
+}

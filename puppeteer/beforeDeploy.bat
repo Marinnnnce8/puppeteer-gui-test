@@ -1,0 +1,1 @@
+mocha beforeDeploy.js --timeout 0
